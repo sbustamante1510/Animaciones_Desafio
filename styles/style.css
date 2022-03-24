@@ -113,7 +113,6 @@ header a:hover{
 .section2_cont , .section4_1_cont , .section4_2_cont{
     text-align: justify;
     gap: 30px;
-    /* flex-wrap: wrap; */
 }
 
 .section2_cont{
